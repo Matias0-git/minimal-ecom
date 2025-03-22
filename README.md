@@ -6,7 +6,7 @@ A modern web application built with React and TypeScript, focused on providing a
 
 ## Watch the App in Action!
 
-### Check out the demo video below to see the app's features, from basic to advanced functions.
+### Check out the demo video below to see the app's features.
 
 [![Watch the video](https://img.youtube.com/vi/79w1P6Xk-Xg/0.jpg)](https://youtu.be/79w1P6Xk-Xg)
 
